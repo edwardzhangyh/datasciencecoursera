@@ -1,2 +1,2 @@
 # datasciencecoursera
-The Data Scientist’s Toolbox Project (part 2)
+The Data Scientist’s Toolbox Project
